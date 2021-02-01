@@ -1,0 +1,153 @@
+2016-04-03 20:44:33 - PHP Notice:  Error: Could not load template C:/wamp/www/catalog/view/theme/default/template/common/footer.tpl! in C:\wamp\www\system\engine\loader.php on line 86
+2016-04-03 20:44:37 - PHP Notice:  Error: Could not load template C:/wamp/www/catalog/view/theme/default/template/common/footer.tpl! in C:\wamp\www\system\engine\loader.php on line 86
+2016-04-03 20:44:45 - PHP Notice:  Error: Could not load template C:/wamp/www/catalog/view/theme/default/template/common/footer.tpl! in C:\wamp\www\system\engine\loader.php on line 86
+2016-04-05 16:23:54 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-05 16:27:32 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-05 16:28:04 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-05 17:31:30 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-05 19:08:13 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-05 21:03:53 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\model\design\banner.php on line 37
+2016-04-05 21:05:56 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\model\design\banner.php on line 37
+2016-04-05 21:08:43 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\controller\design\banner.php on line 386
+2016-04-05 23:18:30 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\admin\view\template\tool\backup.tpl on line 43
+2016-04-05 23:38:46 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\controller\design\banner.php on line 386
+2016-04-05 23:38:46 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\controller\design\banner.php on line 386
+2016-04-05 23:38:46 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\controller\design\banner.php on line 386
+2016-04-05 23:38:46 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\controller\design\banner.php on line 386
+2016-04-05 23:38:46 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\controller\design\banner.php on line 386
+2016-04-05 23:42:46 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\model\design\banner.php on line 37
+2016-04-05 23:48:58 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\admin\model\design\banner.php on line 37
+2016-04-05 23:51:39 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-06 0:30:08 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\admin\view\template\tool\backup.tpl on line 43
+2016-04-06 12:47:42 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:47:42 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:47:42 - DoDirectPayment failed: ()
+2016-04-06 12:47:42 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:47:42 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:47:42 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:47:45 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:47:45 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:47:45 - DoDirectPayment failed: ()
+2016-04-06 12:47:45 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:47:45 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:47:45 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:47:59 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:47:59 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:47:59 - DoDirectPayment failed: ()
+2016-04-06 12:47:59 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:47:59 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:47:59 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:00 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:00 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:00 - DoDirectPayment failed: ()
+2016-04-06 12:48:00 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:00 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:00 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:02 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:02 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:02 - DoDirectPayment failed: ()
+2016-04-06 12:48:02 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:02 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:02 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:02 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:02 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:02 - DoDirectPayment failed: ()
+2016-04-06 12:48:02 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:02 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:02 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:03 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:03 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:03 - DoDirectPayment failed: ()
+2016-04-06 12:48:03 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:03 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:03 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:04 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:04 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:04 - DoDirectPayment failed: ()
+2016-04-06 12:48:04 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:04 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:04 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:15 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:15 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:15 - DoDirectPayment failed: ()
+2016-04-06 12:48:15 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:15 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:15 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:16 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:16 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:16 - DoDirectPayment failed: ()
+2016-04-06 12:48:16 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:16 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:16 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:16 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:16 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:16 - DoDirectPayment failed: ()
+2016-04-06 12:48:16 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:16 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:16 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:20 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:20 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:20 - DoDirectPayment failed: ()
+2016-04-06 12:48:20 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:20 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:20 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:21 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:21 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:21 - DoDirectPayment failed: ()
+2016-04-06 12:48:21 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:21 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:21 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:23 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:23 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:23 - DoDirectPayment failed: ()
+2016-04-06 12:48:23 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:23 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:23 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:23 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:23 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:23 - DoDirectPayment failed: ()
+2016-04-06 12:48:23 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:23 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:23 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:24 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:24 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:24 - DoDirectPayment failed: ()
+2016-04-06 12:48:24 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:24 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:24 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:24 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:24 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:24 - DoDirectPayment failed: ()
+2016-04-06 12:48:24 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:24 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:24 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:26 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:26 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:26 - DoDirectPayment failed: ()
+2016-04-06 12:48:26 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:26 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:26 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:26 - PHP Warning:  curl_error(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:26 - PHP Warning:  curl_errno(): 45 is not a valid cURL handle resource in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 169
+2016-04-06 12:48:26 - DoDirectPayment failed: ()
+2016-04-06 12:48:26 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:26 - PHP Notice:  Undefined index: ACK in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 178
+2016-04-06 12:48:26 - PHP Notice:  Undefined index: L_LONGMESSAGE0 in C:\wamp\www\catalog\controller\payment\pp_pro.php on line 197
+2016-04-06 12:48:36 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-06 12:49:50 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-25 22:59:17 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-25 23:00:43 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-26 17:16:44 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-04-26 21:47:22 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\admin\view\template\tool\backup.tpl on line 43
+2016-04-26 21:47:50 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\admin\view\template\tool\backup.tpl on line 43
+2016-04-27 14:17:26 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-10 12:15:40 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-10 12:20:30 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-10 20:56:54 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\admin\view\template\tool\backup.tpl on line 43
+2016-05-17 10:53:15 - PHP Warning:  unlink(C:/wamp/www/system/storage/cache/cache.language.1463478795): Permission denied in C:\wamp\www\system\library\cache\file.php on line 68
+2016-05-17 16:07:04 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-17 16:08:11 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-17 16:09:02 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-17 16:12:30 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-17 16:14:13 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
+2016-05-22 13:40:05 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\system\library\mail.php on line 164
